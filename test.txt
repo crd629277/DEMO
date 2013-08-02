@@ -3,3 +3,4 @@ from my feature branch
 from release branch
 
 the first hotfix
+the second hotfix
